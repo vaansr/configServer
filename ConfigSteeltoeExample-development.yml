@@ -13,7 +13,7 @@ AppSettings:
     EmailConfig: 
       EmailFrom: email@enail.com
       SubjDenial: Denied in your app
-      BodyDenial: One or more items submitted have been denied. Please log in at: 
+      BodyDenial: One or more items submitted have been denied. Please log in at
       EmailServer: emailserver.org
       Test_Flag: N
    
