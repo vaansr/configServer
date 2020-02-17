@@ -1,3 +1,20 @@
 Value1: some-val-v1 -Developmnet
 Value2: another-val-v2 -Development
 Env: Development
+AppSettings: 
+    LDAPConnectionString: 
+      LdapServer: LDAP://ldap.net
+      LdapUserName: D\\test
+      LdapPassword: blahblabab
+    
+    UseOptimalAuthentication: 
+      UseOptimal: true
+    
+    EmailConfig: 
+      EmailFrom: email@enail.com
+      SubjDenial: Denied in your app
+      BodyDenial: One or more items submitted have been denied. Please log in at: 
+      EmailServer: emailserver.org
+      Test_Flag: N
+   
+ 
