@@ -1,5 +1,5 @@
 Value1: some-val-v1 -Developmnet
-Value2: another-val-v2-Development
+Value2: another-val-v2-Development!
 Env: Development
 AppSettings: 
     LDAPConnectionString: 
